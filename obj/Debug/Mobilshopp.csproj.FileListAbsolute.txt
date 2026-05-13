@@ -1,0 +1,16 @@
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\bin\Debug\Mobilshopp.exe.config
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\bin\Debug\Mobilshopp.exe
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\bin\Debug\Mobilshopp.pdb
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.csproj.AssemblyReference.cache
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.csproj.SuggestedBindingRedirects.cache
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Accessories.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Home.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Login.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Phones.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Properties.Resources.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.Sell.resources
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.csproj.GenerateResource.cache
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.csproj.CoreCompileInputs.cache
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.csproj.CopyComplete
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.exe
+C:\Users\altin\source\repos\Mobilshopp\Mobilshopp\obj\Debug\Mobilshopp.pdb
